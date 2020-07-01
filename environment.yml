@@ -1,0 +1,7 @@
+name: quantlib
+
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - martinbrose::QuantLib=1.18.1
